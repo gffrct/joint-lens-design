@@ -1,0 +1,9 @@
+dependencies:
+- python
+- numpy
+- pyyaml
+- tensorflow
+- imageio
+- pip
+- pip:
+  - tensorflow-addons
