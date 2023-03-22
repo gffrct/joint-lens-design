@@ -19,13 +19,13 @@ In the CVPR 2023 work, this code was applied on object detection as a downstream
 If you find our work useful in your research, please cite:
 
 ```
-@article{cote2022differentiable,
-  doi = {10.48550/ARXIV.2212.04441},
-  url = {https://arxiv.org/abs/2212.04441},
+@inproceedings{cote2023differentiable,
   author = {C{\^o}t{\'e}, Geoffroi and Mannan, Fahim and Thibault, Simon and Lalonde, Jean-Fran{\c{c}}ois and Heide, Felix},
   title = {The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection},
-  publisher = {arXiv},
-  year = {2022}
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2023},
+  pages = {},
 }
 ```
 
