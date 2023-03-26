@@ -1,12 +1,12 @@
 # The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection
 
-### [Paper](https://arxiv.org/abs/2212.04441) | [Project Page](https://light.princeton.edu/publication/joint-detection/)
+### [Paper](https://arxiv.org/abs/2212.04441) | [Project Page](https://light.princeton.edu/joint-lens-design)
 
 #### Geoffroi Côté, Fahim Mannan, Simon Thibault, Jean-François Lalonde, Felix Heide
 
 This is the official code repository for the paper: "The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection", presented at CVPR 2023.
 
-![Lens Simulation Model](https://light.princeton.edu/wp-content/uploads/2023/03/joint-detection-lens-simulation.png)
+![Lens Simulation Model](https://light.princeton.edu/joint-lens-design-simulation)
 
 This repository provides code to
 - model spherical lenses with arbitrary lens configurations based on their surface curvatures, spacings, and glass materials;
