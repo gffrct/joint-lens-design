@@ -6,7 +6,7 @@
 
 This is the official code repository for the paper: "The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection", presented at CVPR 2023.
 
-![Lens Simulation Model](https://light.princeton.edu/joint-lens-design-simulation)
+![Lens Simulation Model](https://light.princeton.edu/wp-content/uploads/2023/04/joint-lens-design-simulation.jpg)
 
 This repository provides code to
 - model spherical lenses with arbitrary lens configurations based on their surface curvatures, spacings, and glass materials;
@@ -14,7 +14,7 @@ This repository provides code to
 - simulate physically accurate geometrical aberrations on input images that represent virtual scenes; and
 - optimize them either in isolation or alongside downstream vision tasks.
 
-In the CVPR 2023 work, this code was applied on object detection as a downstream computer vision task.
+In the CVPR 2023 work, this code was applied to object detection as a downstream computer vision task.
 
 If you find our work useful in your research, please cite:
 
